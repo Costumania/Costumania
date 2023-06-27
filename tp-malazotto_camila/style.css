@@ -1,0 +1,168 @@
+    body {
+        background-image: url(imagenes/fondo.jpg);
+    }
+    #contenedor {
+    width: 1024px;
+    margin: 0 auto;
+    }
+    * {
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        height: 110px;
+    }
+    #logo {
+        background-image: url(imagenes/logo.png);
+        background-repeat: no-repeat;
+        width: 200px;
+        height: 71px;
+        margin: 10px auto;
+        font-size: 0;  
+    }
+    nav {
+        width: 1000px;
+        margin: 10px auto;
+        background-color: lavender;
+        padding: 10px;
+        box-shadow: 1px 1px 1px gray;
+    }
+    nav ul {
+        width: 500px;
+        margin: 0 auto;
+    }
+    nav ul li {
+        background-color: plum;
+        width: 120px;
+        list-style-type: none;
+        display: inline-block;
+    }
+    nav ul li a {
+        text-decoration: none;
+        display: block;
+        padding: 5px;
+        text-align: center;
+        color: white;
+        font-family: 'Sora', sans-serif;
+    }
+    nav ul li a:hover {
+        background-color: beige;
+        color: purple;
+    }
+    section {
+        margin: 0 auto;
+        width: 800px;
+    }
+    .banner {
+        margin-top: 35px;
+        text-align: center;
+    }
+    h2 {
+        width: 800px;
+        color: beige; 
+        background-color: lightcoral;
+        margin-top: 10px;
+        text-align: center;
+        border-radius: 10px;
+        box-shadow: 1px 1px 1px grey;
+        font-family: 'Sora', sans-serif;
+    }
+    .descripcion {
+        background-color: aquamarine;
+        text-align: center;
+        width: 800px;
+        margin-top: 10px;
+        border-radius: 20px;
+        padding: 5px;
+        box-shadow: 1px 1px 1px gray;
+        font-family: 'Urbanist', sans-serif;
+    }
+    .h3 {
+        width: 400px;
+        color: beige; 
+        background-color: lightblue;
+        margin-top: 10px;
+        border-radius: 10px;
+        box-shadow: 1px 1px 1px grey;
+        text-align: center;
+        margin-left: 200px;
+        text-shadow: 0px 0px 2px gray;
+        font-family: 'Sora', sans-serif;
+    }
+    .novedades-img {
+        width: 600px;
+        height: 220px;
+        background-color: lavenderblush;
+        margin-top: 5px;
+        text-align: center;
+        margin-left: 100px;
+        
+    }
+    .novedades-img ul li {
+        list-style-type: none;
+        display: inline-block;
+        margin: 5px;
+
+    }
+    .img {
+        width: 150px;
+        height: 150px;
+        padding: 10px;
+        box-shadow: 1px 1px 1px 1px grey;
+    }
+    .text {
+        margin-top: 10px;
+        font-family: 'Urbanist', sans-serif;  
+    }
+    #contacto {
+        width: 800px;
+        color: beige; 
+        background-color: plum;
+        margin-top: 10px;
+        text-align: center;
+        border-radius: 10px;
+        box-shadow: 1px 1px 1px grey;
+    }
+    .redes-sociales {
+        width: 400px;
+        margin-top: 10px;
+        background-color: lavenderblush;
+        text-align: center;
+        margin-left: 200px;
+        box-shadow: 1px 1px 1px gray;
+        border-radius: 20px;
+    }
+    .redes-sociales ul li {
+        display: inline-block;
+        list-style-type: none;
+    }
+    .img-redes {
+        width: 50px;
+        height: 50px;
+        padding: 30px;
+        margin-top: 8px;
+    }
+    .mapa {
+        text-align: center;
+        margin: 10px;
+    
+    }
+    footer {
+        background-color: gray;
+        width: 1024;
+        height: 30px;
+        box-shadow: 1px 1px 1px black ;
+    }
+    .text-footer {
+        text-decoration: none;
+        color: black;
+        text-align: center;
+        padding: 5px;
+        font-family: 'Urbanist', sans-serif;
+    }
+
+
+
+        
+    
+   
